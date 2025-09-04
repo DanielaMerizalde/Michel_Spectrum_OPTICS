@@ -60,3 +60,7 @@ Returns a graph comparing the results of each charge histogram after applying di
 
 This module recreates Python simulations of the data collected by the Water Cherenkov Tank.  
 The data can be modified by adding more or less noise.  
+
+## OPTICS 
+
+This modules uses OPTICS after cleaning the data.
